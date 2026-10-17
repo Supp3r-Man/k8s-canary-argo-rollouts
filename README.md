@@ -1,6 +1,6 @@
 # k8s-canary-argo-rollouts
 
-![ci](https://github.com/Sup3rMar10/k8s-canary-argo-rollouts/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/Supp3r-Man/k8s-canary-argo-rollouts/actions/workflows/ci.yml/badge.svg)
 
 Canary releases with [Argo Rollouts](https://argoproj.github.io/rollouts/): a new version gets a small share of pods, an **analysis** judges it, and a bad release is **aborted automatically** while the stable version keeps serving.
 
